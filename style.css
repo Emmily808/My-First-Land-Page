@@ -87,7 +87,7 @@ button{
 
 .placeholder{
     display: flex;
-    height: auto;
+    height: 300px;
     width: 300px;
     margin-left: 200px;
     background-color: #F9FAF8;
